@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890884140730",
+    "project_id": "location-finder-app-28e66",
+    "storage_bucket": "location-finder-app-28e66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890884140730:android:179084789a1577a5f29c83",
+        "android_client_info": {
+          "package_name": "com.example.geo_location_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFvlGUsDd3ac9GsaYap0XpOn3Q1TcMfjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
